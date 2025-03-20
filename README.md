@@ -17,7 +17,6 @@ Ensure the following environment variables are set before running the applicatio
 DB_HOST=your-database-host
 DB_PORT=5432
 DB_NAME=your-db-name
-DB_PLATFORM=your-platform-db ex: oracle
 SPRING_DATASOURCE_USERNAME=your-db-username
 SPRING_DATASOURCE_PASSWORD=your-db-password
 ```
